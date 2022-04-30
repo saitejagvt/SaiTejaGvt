@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center">Sai Teja</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saitejagvt&label=Profile%20views&color=23db14&style=flat" alt="saitejagvt" /> </p>
+
 <!--
 **saitejagvt/SaiTejaGvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
