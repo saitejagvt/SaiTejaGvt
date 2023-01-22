@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejagvt&label=Profile%20views&color=0e75b6&style=flat" alt="saitejagvt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saitejagvt" target="blank"><img src="https://img.shields.io/twitter/follow/saitejagvt?logo=twitter&style=for-the-badge" alt="saitejagvt" /></a> </p>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/saitejagvt.svg?style=social&label=Follow%20%40saitejagvt)](https://twitter.com/saitejagvt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
